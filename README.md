@@ -1,5 +1,13 @@
 # HappiiBot
 
+## Team Name   : PKMC
+
+## Team Members:
+-    Manthan Gopal Dhole  [mail](mgdhole_b20@it.vjti.ac.in)
+-    Kashayp Chavhan           [mail](kdchavhan_b20@it.vjti.ac.in)
+-    Pruthviraj Suryavanshi     [mail](pdsuryawanshi_b20@it.vjti.ac.in)
+-    Kalyni Shirsath          [mail](ksshrisath_b21@it.vjti.ac.in)
+  
 ## HappiiBot is made with dialogflow, Html, Telegram use for deployment.
 Dialogflow is a natural language processing (NLP) platform that can be used to build conversational applications and experiences for a company’s customers in various languages and on multiple platforms.
 Features of the Dialogflow
@@ -25,10 +33,4 @@ Demo :
 [Drive](https://drive.google.com/drive/folders/1aarUQXzikapSMSXVOuW9QdN-9gMIgnC0?usp=sharing)
 
 
-## Team Name   : PKMC
-## Team Members:
--    Manthan Gopal Dhole  [mail](mgdhole_b20@it.vjti.ac.in)
--    Kashayp Chavhan           [mail](kdchavhan_b20@it.vjti.ac.in)
--    Pruthviraj Suryavanshi     [mail](pdsuryawanshi_b20@it.vjti.ac.in)
--    Kalyni Shirsath          [mail](ksshrisath_b21@it.vjti.ac.in)
-  
+
