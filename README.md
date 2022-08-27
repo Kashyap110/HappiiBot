@@ -18,5 +18,15 @@ Powered by Google machine learning .
 
 Demo : 
 ![Screenshot (72)](https://user-images.githubusercontent.com/90518833/187035068-fed6c929-9ee9-4179-b74b-5c6db00ea626.png)
+![Screenshot (73)](https://user-images.githubusercontent.com/90518833/187035488-48dea637-0492-4d91-99ff-f369f03dd84a.png)
 
 
+
+
+## Team Name   : PKMC
+## Team Members:
+- Leader Manthan Gopal Dhole  [mail](mgdhole_b20@it.vjti.ac.in)
+-      Kashayp Chvhan           [mail](kdchavhan_b20@it.vjti.ac.in)
+-    Pruthviraj Suryavanshi     [mail](pdsuryawanshi_b20@it.vjti.ac.in)
+-      Kalyni Shirsath          [mail](ksshrisath_b21@it.vjti.ac.in)
+  
