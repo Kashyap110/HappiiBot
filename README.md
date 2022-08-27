@@ -26,7 +26,7 @@ Demo :
 ## Team Name   : PKMC
 ## Team Members:
 -    Manthan Gopal Dhole  [mail](mgdhole_b20@it.vjti.ac.in)
--    Kashayp Chvhan           [mail](kdchavhan_b20@it.vjti.ac.in)
+-    Kashayp Chavhan           [mail](kdchavhan_b20@it.vjti.ac.in)
 -    Pruthviraj Suryavanshi     [mail](pdsuryawanshi_b20@it.vjti.ac.in)
 -    Kalyni Shirsath          [mail](ksshrisath_b21@it.vjti.ac.in)
   
